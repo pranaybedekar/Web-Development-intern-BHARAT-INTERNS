@@ -1,2 +1,2 @@
 # Web-Development-intern-BHARAT-INTERNS
-All Tasks are Provided by bharat interns of web development contains in this Files.
+All Tasks Provided of bharat interns web development contains in this Files.
